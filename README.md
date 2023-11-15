@@ -4,4 +4,5 @@ Logica basica o avanzada, como tu lo veas pero sirven para practicar ademas de q
 
 Los ejercicios que tengo son:
   - FizzBuzz
+  - El lenguaje Hacker
     
