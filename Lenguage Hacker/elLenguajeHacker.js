@@ -21,77 +21,77 @@ function convertirALeet() {
           resultado += 'I3';
           break;
         case 'C':
-            resultado += '[';
-            break;
+          resultado += '[';
+          break;
         case 'D':
-            resultado += ')';
-            break;
+          resultado += ')';
+          break;
         case 'E':
-            resultado += '3';
-            break;
+          resultado += '3';
+          break;
         case 'F':
-            resultado += '|=';
-            break; 
+          resultado += '|=';
+          break; 
         case 'G':
-            resultado += '&';
-            break; 
+          resultado += '&';
+          break; 
         case 'H':
-            resultado += '#';
-            break;
+          resultado += '#';
+          break;
         case 'I':
-           resultado += '1';
-            break; 
+          resultado += '1';
+           break; 
         case 'J':
           resultado += ',_|';
           break;
         case 'K':
-            resultado += '>|';
-            break;
+          resultado += '>|';
+          break;
         case 'L':
-            resultado += '1';
-            break;
+          resultado += '1';
+          break;
         case 'M':
-            resultado += '/\/\ ';
-            break;
+          resultado += '/\/\ ';
+          break;
         case 'N':
-            resultado += '^/';
-            break; 
+          resultado += '^/';
+          break; 
         case 'O':
-            resultado += '0';
-            break; 
+          resultado += '0';
+          break; 
         case 'P':
-            resultado += '|p';
-            break;
+          resultado += '|p';
+          break;
         case 'Q':
-            resultado += '(,)';
-            break;
+          resultado += '(,)';
+          break;
         case 'R':
-           resultado += '|2';
-            break; 
+          resultado += '|2';
+          break; 
         case 'S':
           resultado += '5';
           break;
         case 'T':
-            resultado += '7';
-            break;
+          resultado += '7';
+          break;
         case 'U':
-            resultado += '(_)';
-            break;
+          resultado += '(_)';
+          break;
         case 'V':
-            resultado += '\/ ';
-            break;
+          resultado += '\/ ';
+          break;
         case 'W':
-            resultado += '\/\/';
-            break; 
+          resultado += '\/\/';
+          break; 
         case 'X':
-            resultado += '><';
-            break; 
+          resultado += '><';
+          break; 
         case 'Y':
-            resultado += 'j';
-            break;
+          resultado += 'j';
+          break;
         case 'Z':
-            resultado += "2";
-            break;        
+          resultado += "2";
+          break;        
         default:
           resultado += caracter;
       }
